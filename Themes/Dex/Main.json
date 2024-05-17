@@ -14,6 +14,26 @@
   "rawColors": {
     "PRIMARY_500": "#9E8376"
   },
+   "fonts":{
+  "ABCGintoNord-ExtraBold": "https://github.com/ItsJustJoshDev/PyonStuff/raw/main/Fonts/Trakya-Bold.ttf",
+  "ggsans-Bold": "https://github.com/ItsJustJoshDev/PyonStuff/raw/main/Fonts/Trakya-Bold.ttf",
+  "ggsans-BoldItalic": "https://github.com/ItsJustJoshDev/PyonStuff/raw/main/Fonts/Trakya-BoldItalic.ttf",
+  "ggsans-ExtraBold": "https://github.com/ItsJustJoshDev/PyonStuff/raw/main/Fonts/Trakya-Bold.ttf",
+  "ggsans-ExtraBoldItalic": "https://github.com/ItsJustJoshDev/PyonStuff/raw/main/Fonts/Trakya-BoldItalic.ttf",
+  "ggsans-Medium": "https://github.com/ItsJustJoshDev/PyonStuff/raw/main/Fonts/Trakya-Medium.ttf",
+  "ggsans-MediumItalic": "https://github.com/ItsJustJoshDev/PyonStuff/raw/main/Fonts/Trakya-MediumItalic.ttf",
+  "ggsans-Normal": "font",
+  "ggsans-NormalItalic": "font",
+  "ggsans-Semibold": "font",
+  "ggsans-SemiboldItalic": "font",
+  "NotoSans-Bold": "https://github.com/ItsJustJoshDev/PyonStuff/raw/main/Fonts/Trakya-Bold.ttf",
+  "NotoSans-ExtraBold": "font",
+  "NotoSans-Medium": "font",
+  "NotoSans-Normal": "font",
+  "NotoSans-NormalItalic": "font",
+  "NotoSans-Semibold": "font",
+  "SourceCodePro-Semibold": "font"
+ },
   "background": {
     "blur": 0.6,
     "url": "https://cdn.discordapp.com/attachments/1086985889286209586/1099189661995380897/82ef73f876a5ef467a8263b694e4f0b8.jpg",
