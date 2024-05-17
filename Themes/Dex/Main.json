@@ -24,15 +24,15 @@
   "ggsans-MediumItalic": "https://github.com/ItsJustJoshDev/PyonStuff/raw/main/Fonts/Trakya-MediumItalic.ttf",
   "ggsans-Normal": "https://github.com/ItsJustJoshDev/PyonStuff/raw/main/Fonts/Trakya-Regular.ttf",
   "ggsans-NormalItalic": "https://github.com/ItsJustJoshDev/PyonStuff/raw/main/Fonts/Trakya-Italic.ttf",
-  "ggsans-Semibold": "font",
-  "ggsans-SemiboldItalic": "font",
+  "ggsans-Semibold": "https://github.com/ItsJustJoshDev/PyonStuff/raw/main/Fonts/Trakya-Medium.ttf",
+  "ggsans-SemiboldItalic": "https://github.com/ItsJustJoshDev/PyonStuff/raw/main/Fonts/Trakya-MediumItalic.ttf",
   "NotoSans-Bold": "https://github.com/ItsJustJoshDev/PyonStuff/raw/main/Fonts/Trakya-Bold.ttf",
-  "NotoSans-ExtraBold": "font",
-  "NotoSans-Medium": "font",
-  "NotoSans-Normal": "font",
-  "NotoSans-NormalItalic": "font",
-  "NotoSans-Semibold": "font",
-  "SourceCodePro-Semibold": "font"
+  "NotoSans-ExtraBold": "https://github.com/ItsJustJoshDev/PyonStuff/raw/main/Fonts/Trakya-Bold.ttf",
+  "NotoSans-Medium": "https://github.com/ItsJustJoshDev/PyonStuff/raw/main/Fonts/Trakya-Medium.ttf",
+  "NotoSans-Normal": "https://github.com/ItsJustJoshDev/PyonStuff/raw/main/Fonts/Trakya-Regular.ttf",
+  "NotoSans-NormalItalic": "https://github.com/ItsJustJoshDev/PyonStuff/raw/main/Fonts/Trakya-Italic.ttf",
+  "NotoSans-Semibold": "https://github.com/ItsJustJoshDev/PyonStuff/raw/main/Fonts/Trakya-Bold.ttf",
+  "SourceCodePro-Semibold": "https://github.com/ItsJustJoshDev/PyonStuff/raw/main/Fonts/Hack-Regular.ttf"
  },
   "background": {
     "blur": 0.6,
